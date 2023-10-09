@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  text-align: center;
+  gap: 30px;
+}
+
+.box_1 {
+  background-color: white;
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  height: 420px;
+  margin-top: 125px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.box_2 {
+
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  height: 420px;
+  margin-top: 125px;
+  background-color: rgb(237, 18, 127);
+  border-radius: 5px;
+}
+
+.box_3 {
+  background-color: white;
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  height: 420px;
+  margin-top: 125px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.title_1 {
+  color: black;
+  padding-top: 20px;
+  font-weight: bolder;
+  font-size: 35px;
+}
+
+
+.title_2 {
+  color: black;
+  padding-top: 20px;
+  font-weight: bolder;
+  font-size: 35px;
+  color: white;
+}
+
+.title_3 {
+  color: black;
+  padding-top: 20px;
+  font-weight: bolder;
+  font-size: 35px;
+}
+
+.text_1 {
+  padding-top: 20px;
+  font-weight: bolder;
+  font-size: 22px;
+  font-weight: 400;
+  color: rgb(49, 48, 48);
+  padding-bottom: 20px;
+}
+
+.text_2 {
+  padding-top: 20px;
+  font-weight: bolder;
+  font-size: 22px;
+  font-weight: 400;
+  color: white;
+  padding-bottom: 20px;
+}
+
+.text_3 {
+  padding-top: 20px;
+  font-weight: bolder;
+  font-size: 22px;
+  font-weight: 400;
+  color: rgb(49, 48, 48);
+  padding-bottom: 20px;
+}
+
+.btn_1 {
+  padding: 18px 65px;
+  background: black;
+  font-size: 20px;
+  border: 100px;
+  color: azure;
+  border-radius: 35px;
+  text-align: center;
+  font-weight: lighter;
+
+}
+
+.btn_2 {
+  padding: 18px 65px;
+  font-size: 20px;
+  border: 100px;
+  color: rgb(250, 23, 174);
+  border-radius: 35px;
+  text-align: center;
+  font-weight: lighter;
+  background: white;
+
+}
+
+.btn_3 {
+  padding: 18px 65px;
+  background: black;
+  font-size: 20px;
+  border: 100px;
+  color: azure;
+  border-radius: 35px;
+  text-align: center;
+  font-weight: lighter;
+
+}
